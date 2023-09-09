@@ -1,5 +1,12 @@
-# take-me-home-challenge
-Create a model that can predict whether or not a student will pass the test. 
+# Data Scientist Challenge
+
+This challenge is designed to assess your analytical, programming, and communication skills. You will be provided with a data set about students and asked to complete three tasks:
+
+1. Analyze the data to identify the demographic details of people most likely to pass the test, the efficacy of the two interventions, and any other interesting trends.
+
+2. Create a model that can predict whether or not a student will pass the test.
+
+3. Communicate your findings to less technical management staff in a way that is easy to understand.
 
 ## Environment
 
